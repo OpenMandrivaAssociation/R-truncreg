@@ -7,7 +7,7 @@ Release:          2
 Summary:          Truncated Regression Models
 Group:            Sciences/Mathematics
 License:          GPL (>=2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.1-1.tar.gz
 BuildArch:        noarch
 Requires:         R-core
